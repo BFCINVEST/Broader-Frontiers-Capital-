@@ -1,0 +1,26 @@
+# Broader Frontiers Capital — BFC Invest
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Version](https://img.shields.io/badge/version-0.1.0-blue)
+![Platform](https://img.shields.io/badge/platform-Web%20%2B%20Mobile-success)
+[![Stars](https://img.shields.io/github/stars/Broader-Frontiers-Capital/bfcinvest?style=social)](https://github.com/Broader-Frontiers-Capital/bfcinvest)
+
+**Africa's Premium Investment Platform** — Grow wealth across frontiers.
+
+![BFC Hero](public/hero.png) <!-- Add screenshot later -->
+
+## ✨ Features
+- 9 Investment Tiers with daily returns
+- Diversified assets: Stocks (NGX, NYSE), ETFs, REITs, Regulated Crypto, Forex
+- Multi-currency support & instant local payments
+- Automated KYC, bank-level security
+- Referral program (up to 10% commission)
+- Expert trade signals & research tools (coming soon)
+
+## Quick Start
+
+```bash
+git clone https://github.com/Broader-Frontiers-Capital/bfcinvest.git
+cd bfcinvest
+npm install
+npm run dev
